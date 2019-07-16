@@ -8,6 +8,10 @@ Ever long for a better search for Joomla?  Want typo correction?  Like to search
 
 ![Instant Search on Joomla with Algolia](https://extly-tech.com/media/instant-search-on-joomla-with-algolia/images/its-search-only-better-720.jpg)
 
+Anibal Sanchez (@anibal_sanchez) team leader / senior dev at Extly and of Joocial fame and prolific contributor to the Joomla project is going to discuss his latest extension, that integrates Algolia Search into Joomla, as well as search in general.
+
+Algolia helps businesses across industries quickly create relevant, scalable, and lightning-fast search and discovery experiences.
+
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International License.
