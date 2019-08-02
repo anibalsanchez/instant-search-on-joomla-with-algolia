@@ -1,6 +1,6 @@
 # Instant Search with Algolia <!-- .slide: class="home" -->
 
-By [Anibal Sanchez](http://blog.anibalhsanchez.com), [Extly.Tech](https://extly.tech)
+By [Anibal Sanchez](http://blog.anibalhsanchez.com), [Extly Tech](https://extly-tech.com)
 
 Slides: [joo.nu/xtsearch](http://joo.nu/xtsearch)
 
