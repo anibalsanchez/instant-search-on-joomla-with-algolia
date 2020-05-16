@@ -8,7 +8,7 @@ In this talk, we are going to review several techniques that are currently power
 
 Ever long for a better search for Joomla?  Want typo correction?  Like to search as you type?  Algolia does all of these things.  Join us as Aníbal talks us through his plugin at #joomlalondon on Tuesday (16/7) (link: <https://www.meetup.com/Joomla-User-Group-London/events/263024273/>) meetup.com/Joomla-User-Gr… joomla #webdesigners #meetup #jugl
 
-![InstantSearch on Joomla with Algolia](https://extly-tech.com/media/instant-search-on-joomla-with-algolia/images/its-search-only-better-720.jpg)
+![InstantSearch on Joomla with Algolia](https://extly.com/media/instant-search-on-joomla-with-algolia/images/its-search-only-better-720.jpg)
 
 Anibal Sanchez (@anibal_sanchez) team leader / senior dev at Extly and of Joocial fame and prolific contributor to the Joomla project is going to discuss his latest extension, that integrates Algolia Search into Joomla, as well as search in general.
 
