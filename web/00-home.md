@@ -2,7 +2,7 @@
 
 By [Anibal Sanchez](http://blog.anibalhsanchez.com), [Extly Tech](https://extly.com)
 
-Slides: [joo.nu/xtsearch](http://joo.nu/xtsearch)
+Slides: [ppub.link/xtsearch](http://ppub.link/xtsearch)
 
 Joomla User Group - London(#JUGL) Meetup - July (Guest Speaker) - Tuesday, July 16, 2019
 
